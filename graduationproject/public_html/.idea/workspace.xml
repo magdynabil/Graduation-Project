@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0034781-fe20-4f1d-8722-ec49297db700" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/PHPMailer/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1U4rJcywx1SjiWhEdXEklAY7gSV" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/up" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\gradution_project\web_main_page" />
+      <recent name="C:\xampp\htdocs\gradution_project\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\gradution_project\web_main_page" />
+      <recent name="C:\xampp\htdocs\gradution_project\web_main_page\Star-Rating" />
+      <recent name="C:\xampp\htdocs\gradution_project\css" />
+      <recent name="C:\xampp\htdocs\gradution_project" />
+      <recent name="C:\xampp\htdocs\gradution_project\include" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0034781-fe20-4f1d-8722-ec49297db700" name="Default Changelist" comment="" />
+      <created>1574626638103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574626638103</updated>
+      <workItem from="1574626644617" duration="813000" />
+      <workItem from="1574627705583" duration="1738000" />
+      <workItem from="1574629806110" duration="1688000" />
+      <workItem from="1574631647814" duration="1331000" />
+      <workItem from="1574675490148" duration="1088000" />
+      <workItem from="1574677312937" duration="1782000" />
+      <workItem from="1574679150272" duration="1401000" />
+      <workItem from="1574680741192" duration="1781000" />
+      <workItem from="1574682579489" duration="1780000" />
+      <workItem from="1574684651266" duration="1786000" />
+      <workItem from="1574686487563" duration="1632000" />
+      <workItem from="1574688385227" duration="1763000" />
+      <workItem from="1574690353901" duration="170000" />
+      <workItem from="1574706366785" duration="1730000" />
+      <workItem from="1574709140058" duration="1852000" />
+      <workItem from="1574711535063" duration="1926000" />
+      <workItem from="1574714508103" duration="598000" />
+      <workItem from="1574717807172" duration="1736000" />
+      <workItem from="1574719643414" duration="602000" />
+      <workItem from="1574724785970" duration="746000" />
+      <workItem from="1574791069202" duration="1794000" />
+      <workItem from="1574793317379" duration="1714000" />
+      <workItem from="1574795142554" duration="1071000" />
+      <workItem from="1574959769268" duration="41000" />
+      <workItem from="1575389228090" duration="1771000" />
+      <workItem from="1575391098252" duration="1768000" />
+      <workItem from="1575392958272" duration="1500000" />
+      <workItem from="1575394793878" duration="1939000" />
+      <workItem from="1575396818706" duration="1796000" />
+      <workItem from="1575398657578" duration="1229000" />
+      <workItem from="1575401109454" duration="1741000" />
+      <workItem from="1575402915505" duration="1609000" />
+      <workItem from="1575404877779" duration="1783000" />
+      <workItem from="1575406790253" duration="986000" />
+      <workItem from="1575408607864" duration="1778000" />
+      <workItem from="1575410435109" duration="1788000" />
+      <workItem from="1575412662535" duration="286000" />
+      <workItem from="1575422078723" duration="1776000" />
+      <workItem from="1575423911624" duration="1528000" />
+      <workItem from="1575458925507" duration="848000" />
+      <workItem from="1575751440721" duration="86000" />
+      <workItem from="1575751567703" duration="1446000" />
+      <workItem from="1575758073526" duration="1644000" />
+      <workItem from="1575922547905" duration="729000" />
+      <workItem from="1580319014908" duration="3452000" />
+      <workItem from="1580324417775" duration="6402000" />
+      <workItem from="1580564287458" duration="11180000" />
+      <workItem from="1580578004186" duration="685000" />
+      <workItem from="1580646230760" duration="979000" />
+      <workItem from="1580748465655" duration="158000" />
+      <workItem from="1582019719132" duration="1157000" />
+      <workItem from="1582289854808" duration="119000" />
+      <workItem from="1582290387853" duration="924000" />
+      <workItem from="1582301556545" duration="9090000" />
+      <workItem from="1582313681206" duration="5150000" />
+      <workItem from="1582319536064" duration="275000" />
+      <workItem from="1582372334440" duration="356000" />
+      <workItem from="1583182465321" duration="1362000" />
+      <workItem from="1583183970081" duration="1445000" />
+      <workItem from="1583185995462" duration="1696000" />
+      <workItem from="1583187906628" duration="1711000" />
+      <workItem from="1583189921270" duration="35000" />
+      <workItem from="1583266307263" duration="49000" />
+      <workItem from="1583400758351" duration="282000" />
+      <workItem from="1583616274880" duration="607000" />
+      <workItem from="1583618091973" duration="368000" />
+      <workItem from="1583628890802" duration="574000" />
+      <workItem from="1583629912130" duration="931000" />
+      <workItem from="1583662506837" duration="612000" />
+      <workItem from="1583845539833" duration="1167000" />
+      <workItem from="1583853471710" duration="1761000" />
+      <workItem from="1583855522422" duration="1733000" />
+      <workItem from="1583858643503" duration="1679000" />
+      <workItem from="1583861118973" duration="1665000" />
+      <workItem from="1583862963323" duration="1728000" />
+      <workItem from="1583864817749" duration="746000" />
+      <workItem from="1583871973394" duration="1033000" />
+      <workItem from="1595849511263" duration="113000" />
+      <workItem from="1596129862830" duration="220000" />
+      <workItem from="1596141439230" duration="267000" />
+      <workItem from="1596142214407" duration="1188000" />
+      <workItem from="1596143623567" duration="1935000" />
+      <workItem from="1596290570537" duration="437000" />
+      <workItem from="1596715938890" duration="2672000" />
+      <workItem from="1604434684689" duration="396000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/include/sin_up_code.php</url>
+          <line>165</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/include/function.php</url>
+          <line>1</line>
+          <properties>
+            <option name="className" value="" />
+            <option name="methodName" value="\sign_up" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
